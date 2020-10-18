@@ -10,6 +10,7 @@ We definitely want to expand this project to include a profile page and matching
 We learned so much in this project. Fernando and Claire learned the basics of HTML, running sites locally, and Flask (a Python extension). Jenn learned how to implement open source projects and utilize Youtube videos to aid my understanding of various programming languages and extensions. She learned how to write JavaScript and the JSON data format. We all learned how to work as a team and began to bring our conceptual ideas into tangible reality through programming!
 
 ## Video Walkthrough
+<img src= "https://recordit.co/gb4NOAiq02.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src= "http://g.recordit.co/xsXCnZnhul.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src= "https://recordit.co/gb4NOAiq02.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
