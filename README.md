@@ -11,3 +11,5 @@ We learned so much in this project. Fernando and Claire learned the basics of HT
 
 ## Video Walkthrough
 <img src= "http://g.recordit.co/xsXCnZnhul.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src= "https://recordit.co/gb4NOAiq02" title='Video Walkthrough' width='' alt='Video Walkthrough' />
